@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "shoreline",
+  "version": "${version}",
+  "name": "Cheese Client",
+  "description": "Minecraft Hacked Client",
+  "authors": [
+    "linus"
+  ],
+  "contact": {
+    "homepage": "https://cheeseclient.qzz.io/"
+  },
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.shoreline.client.Shoreline"
+    ]
+  },
+  "mixins": [
+    "mixins.shoreline.json"
+  ],
+  "accessWidener": "shoreline.accesswidener",
+  "license": "MIT",
+  "icon": "assets/Logo.webp",
+  "depends": {
+    "java": ">=21",
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1",
+    "fabric-api": "*"
+  }
+}
