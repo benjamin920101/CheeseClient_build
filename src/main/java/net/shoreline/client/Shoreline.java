@@ -23,7 +23,7 @@ import java.util.concurrent.Executors;
 @Environment(EnvType.CLIENT)
 public class Shoreline implements ClientModInitializer
 {
-    private static final Logger LOGGER = LogManager.getLogger("Shoreline");
+    private static final Logger LOGGER = LogManager.getLogger("CheeseClient");
     // Client configuration handler. This master saves/loads the client
     // configuration files which have been saved locally.
     public static ClientConfiguration CONFIG;
