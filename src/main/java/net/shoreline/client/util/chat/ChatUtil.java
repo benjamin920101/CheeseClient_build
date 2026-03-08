@@ -15,7 +15,7 @@ import net.shoreline.client.util.Globals;
 public class ChatUtil implements Globals
 {
     //
-    public static final String PREFIX = "§s[Shoreline] §r";
+    public static final String PREFIX = "§s[CheeseClient] §r";
 
     /**
      * Sends a message in the {@link net.minecraft.client.gui.hud.ChatHud}
