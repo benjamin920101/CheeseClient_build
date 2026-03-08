@@ -9,7 +9,7 @@ import net.fabricmc.loader.api.FabricLoader;
 
 public class ShorelineMod
 {
-    public static final String MOD_NAME = "Shoreline";
+    public static final String MOD_NAME = "CheeseClient";
     public static final String MOD_VER = BuildConfig.VERSION;
     public static final String MOD_MC_VER = "1.21.1";
 

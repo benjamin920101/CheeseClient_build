@@ -8,7 +8,7 @@
     "linus"
   ],
   "contact": {
-    "homepage": "https://cheeseclient.qzz.io/"
+    "homepage": "https://www.google.com/"
   },
   "environment": "client",
   "entrypoints": {
@@ -21,7 +21,7 @@
   ],
   "accessWidener": "shoreline.accesswidener",
   "license": "MIT",
-  "icon": "assets/Logo.webp",
+  "icon": "assets/Logo.png",
   "depends": {
     "java": ">=21",
     "fabricloader": ">=0.15.0",
